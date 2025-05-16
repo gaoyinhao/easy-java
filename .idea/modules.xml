@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easyjava/easyjava.iml" filepath="$PROJECT_DIR$/easyjava/easyjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyjava-demo/easyjava-demo.iml" filepath="$PROJECT_DIR$/easyjava-demo/easyjava-demo.iml" />
+    </modules>
+  </component>
+</project>
